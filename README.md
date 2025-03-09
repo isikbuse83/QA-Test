@@ -1,0 +1,1 @@
+Selenium ile Java kodları üzerinden N11 sitesini, test etmiş bulunuyorum. Örnek olması amaçlı test title ları excel dosyada oluşrulmuş ve kodlar basit tutulmuştur. Allert ise ufak bir htadan dolayı aşırı yüklenmiş gözükmekte onu baz almayınız. :)
