@@ -1,7 +1,8 @@
 public class Data {
 
-public String email = "isikbuse83@gmail.com";
-public String password = "sgtu&Y*224PGd.";
+public String email = "mail  adresi girin";
+public String password = "şifrenizi girin";
+  // aramak istediğiniz ürün
 public String text = "polisiye kitaplar";
 
 
