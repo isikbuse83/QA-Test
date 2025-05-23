@@ -1,1 +1,1 @@
-Selenium ile Java kodları üzerinden N11 sitesini, test etmiş bulunuyorum. Örnek olması amaçlı test title ları excel dosyada oluşrulmuş ve kodlar basit tutulmuştur. Allert ise ufak bir htadan dolayı aşırı yüklenmiş gözükmekte onu baz almayınız. :)
+I have tested the N11 site using Selenium and Java codes. For example, the test titles were created in an Excel file and the codes were kept simple. Allert seems to be overloaded due to a small error, do not take it into account. :)
